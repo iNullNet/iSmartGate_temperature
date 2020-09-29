@@ -1,0 +1,1 @@
+With this script and faketemp's homebridge plugin [https://libraries.io/npm/homebridge-faketemp] you can put temperature sensor in Apple Homekit.
